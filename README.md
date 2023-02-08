@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [Tree Planter Tutorial](https://makecode.microbit.org/#tutorial:github:mbakhtar/tree-planter-v1/treeplanter-v1)
+* open [Tree Planter Tutorial Makecode Editor](https://makecode.microbit.org/#tutorial:github:mbakhtar/tree-planter-v1/treeplanter-v1)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/tree-planter-v1** and import
